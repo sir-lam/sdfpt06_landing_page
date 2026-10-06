@@ -2,7 +2,7 @@
 
 function calculateArea(length, width) {
     let area = length * width;
-        debugger;
+    debugger;
     return area;
 }
 let area = calculateArea(5, 10);

@@ -20,9 +20,9 @@ while(i <= 10){
 // expr1 : this is executed once before the execution of the code block 
 // expr2:  this is the condition to keep executing the code block : normally compared to expr1 
 // expr3: this is executed everytime the codeblock is executed 
-// for(expr1; expr2; expr3){
+for(expr1; expr2; expr3){
 
-// }
+}
 console.log("For the for loop")
 for (let i = 1; i <= 10; i++){
     console.log("The number is " , i)
